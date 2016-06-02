@@ -1,0 +1,2 @@
+# bot sample
+bot
